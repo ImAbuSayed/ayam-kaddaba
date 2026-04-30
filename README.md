@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق خذيني لعينيك
+> روحي في الغرام تذوب بين يديك
+> في بحر الليل أبحث عن نورك
+> كل نبضاتي تعشق سحر حضورك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
